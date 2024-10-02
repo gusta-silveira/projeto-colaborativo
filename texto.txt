@@ -1,1 +1,1 @@
-"Essa é a primeira frase do projeto colaborativo."
+"Essa é a primeira frase do projeto colaborativo.""Nova frase do gustavo_magalhaes_silveira." 
